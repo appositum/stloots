@@ -1,0 +1,10 @@
+name = "stloots"
+version = "0.1.0"
+defaultTargets = ["stloots"]
+
+[[lean_lib]]
+name = "Stloots"
+
+[[lean_exe]]
+name = "stloots"
+root = "Main"
